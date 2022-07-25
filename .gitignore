@@ -1,4 +1,6 @@
-/build/
+bin/
+.settings/
+target/
 ================
 #Compled class file
 *.class
